@@ -1,6 +1,12 @@
 PyDy Code Generation
 ====================
 
+**Notice**
+
+**pydy-code-gen has been merged into the main pydy repository. This independent
+project is now deprecated, all development and subsequent releases will be from
+http://github.com/pydy/pydy.**
+
 This distribution provides code generation facilities for PyDy_. For now, it
 generates functions that can evaluate the right hand side of the ordinary
 differential equations generated with sympy.physics.mechanics_ with three
